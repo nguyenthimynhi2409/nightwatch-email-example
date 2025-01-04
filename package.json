@@ -1,0 +1,18 @@
+{
+  "name": "nightwatch-email-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^131.0.4",
+    "dotenv": "^16.4.7",
+    "imap-simple": "^5.1.0",
+    "nightwatch": "^3.10.0"
+  }
+}
